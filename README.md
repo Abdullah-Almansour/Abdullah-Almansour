@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **.Net & Spring**
 
-- 💬 Ask me about **Java , C#** & UI/UX** 
+- 💬 Ask me about **Java , C#** & **UI/UX 
 
 - 📫 How to reach me **Abdullah000almansour@gmail.com**
 
